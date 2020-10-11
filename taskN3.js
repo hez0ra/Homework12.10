@@ -10,6 +10,4 @@ for(let i = 1;i<600851475143; i++){
           arr.push(i)
      }
 }
-
-
 console.log(arr)
